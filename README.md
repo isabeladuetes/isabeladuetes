@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Olá%2C+sou+%5Isabela+Duetes%5D!;Estudante+de+DS+no+SENAI+Valinhos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Olá%2C+sou+%5BIsabela+Duetes%5D!;Estudante+de+DS+no+SENAI+Valinhos" alt="Typing SVG" />
 </p>
 
 Bem-vindo ao meu perfil do GitHub! Sou uma estudante de Desenvolvimento de Sistemas do SENAI Valinhos, com paixão por criar soluções inovadoras e aprender novas tecnologias.
