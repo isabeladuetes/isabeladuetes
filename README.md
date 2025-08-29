@@ -1,21 +1,44 @@
-<h1 align="center">Olá! 👋 Eu sou a Isabela Carvalho Duetes</h1>
+# Olá, sou Isabela Duetes! 👋
 
-<p align="center">
-  <img src="https://i.gifer.com/2IS5.gif" alt="Isabela Avatar" width="200"/>
-</p>
-
-## 😎 Sobre mim
-
-Sou estudante de Desenvolvimento de Sistemas no  SENAI-Valinhos, apaixonada por tecnologia e inovação!  
-Adoro explorar novas ideias, criar projetos incríveis e compartilhar conhecimento.  
-
-- 💻 Tecnologias que domino: **JavaScript**, **Kanban** e **Scrum**.
-- 📚 Hobbies: **Ler livros de diversos gêneros**, **Viajar e explorar novos lugares**, além de **amar assistir séries e filmes**!
-
-## 🚀 Minhas estatísticas no GitHub:
-
-![Isabela's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabeladuetes&show_icons=true&theme=radical)
+Bem-vindo ao meu perfil do GitHub! Sou uma estudante de Desenvolvimento de Sistemas do SENAI Valinhos, com paixão por criar soluções inovadoras e aprender novas tecnologias.
 
 ---
 
-⭐️ **Vamos codar e nos divertir!**  
+## 🚀 Sobre Mim
+
+- 💻 Tenho experiência em JavaScript, Kanban, Scrum e Git/GitHub.
+- 🌱 Atualmente estou aprendendo HTML, CSS e SQL.
+- 🤔 Sempre aberta a novos desafios e oportunidades de aprender.
+- 💕 Hobbies: Ler livros de diversos gêneros, viajar e explorar novos lugares, além de amar assistir séries e filmes!
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
+
+- **Linguagens de programação**: JS, HTML & CSS.
+- **Ferramentas**: Git e VSCode.
+- **Banco de dados**: MySQL e SQLite.
+
+---
+
+## 📘 Projetos
+
+*Em breve, você verá alguns dos meus projetos aqui!*
+
+Enquanto isso, estou praticando e aprendendo com atividades do curso e pequenos desafios.
+
+---
+
+## 📬 Como me encontrar
+
+- 🌍 [Instagram](https://www.instagram.com/belahlz/?next=%2F)
+- 📧 Email: isabela.duetes@aluno.senai.br
+---
+
+## 💬 Frase que me inspira
+
+> *"Que a sorte esteja sempre ao seu favor." — Acompanhando o espírito de Jogos Vorazes.*
+
+---
