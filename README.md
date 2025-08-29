@@ -44,3 +44,5 @@ Enquanto isso, estou praticando e aprendendo com atividades do curso e pequenos 
 > *"Que a sorte esteja sempre ao seu favor." — Acompanhando o espírito de Jogos Vorazes.*
 
 ---
+
+Bora codar! 🎀
