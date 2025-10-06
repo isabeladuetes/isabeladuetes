@@ -9,7 +9,6 @@ Bem-vindo ao meu perfil do GitHub! Sou uma estudante de Desenvolvimento de Siste
 ## 🚀 Sobre Mim
 
 - 💻 Tenho experiência em JavaScript, Kanban, Scrum e Git/GitHub.
-- 🌱 Atualmente estou aprendendo HTML, CSS e SQL.
 - 🤔 Sempre aberta a novos desafios e oportunidades de aprender.
 - 💕 Hobbies: Ler livros de diversos gêneros, viajar e explorar novos lugares, além de amar assistir séries e filmes!
 
@@ -20,7 +19,7 @@ Bem-vindo ao meu perfil do GitHub! Sou uma estudante de Desenvolvimento de Siste
 Aqui estão algumas das tecnologias e ferramentas com as quais aprendi:
 
 - **Linguagens de programação**: JS, HTML & CSS.
-- **Ferramentas**: Git e VSCode.
+- **Ferramentas**: Git, VSCode e Postman.
 - **Banco de dados**: MySQL e SQLite.
 
 ---
