@@ -24,17 +24,9 @@ Aqui estão algumas das tecnologias e ferramentas com as quais aprendi:
 
 ---
 
-## 📘 Projetos
-
-*Em breve, você verá alguns dos meus projetos aqui!*
-
-Enquanto isso, estou praticando e aprendendo com atividades do curso e pequenos desafios.
-
----
-
 ## 📬 Como me encontrar
 
-- 🌍 [Instagram](https://www.instagram.com/belahlz/?next=%2F)
+- 🌍 Instagram: [@belahlz](https://www.instagram.com/belahlz/?next=%2F)
 - 📧 Email: isabela.duetes@aluno.senai.br
 ---
 
